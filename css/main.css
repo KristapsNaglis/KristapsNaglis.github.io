@@ -1,0 +1,42 @@
+html , body {
+    margin: 0;
+    padding: 0;
+
+    background-color: #383838;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.text {
+    padding-top: 37vh;
+
+    text-align: center;
+
+    color: #ffffff;
+}
+
+#git {
+    height: 1em;
+    margin: 0;
+
+    font-size: 10em;
+
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#pages {
+    padding-left: 1.7em;
+    margin: 0;
+    transform-origin: center;
+
+    font-size: 2.5em;
+    color: #797979;
+
+    font-family: 'Playfair Display', serif;
+
+    letter-spacing: 1.7em;
+    text-transform: lowercase;
+}
