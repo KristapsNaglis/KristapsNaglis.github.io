@@ -32,6 +32,10 @@ html , body {
     color: #383838;
 }
 
+#git::-moz-selection {
+    background: white;
+}
+
 #pages {
     padding-left: 1.7em;
     margin: 0;
