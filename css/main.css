@@ -34,6 +34,7 @@ html , body {
 
 #git::-moz-selection {
     background: white;
+    color: #383838;
 }
 
 #pages {
@@ -48,4 +49,14 @@ html , body {
 
     letter-spacing: 1.7em;
     text-transform: lowercase;
+}
+
+#pages::selection{
+    background-color: white;
+    color: #383838;
+}
+
+#pages::-moz-selection {
+    background: white;
+    color: #383838;
 }
